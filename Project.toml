@@ -1,0 +1,7 @@
+name = "Example"
+uuid = "570d587a-3086-40d1-8fff-61f9ce121a59"
+authors = ["Mark Mendel <mmendel@meinergy.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
